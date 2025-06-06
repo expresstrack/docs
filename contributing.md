@@ -28,10 +28,16 @@ Documentation files are written in Markdown (`.md`) and organized in folders tha
 * Directory structure mirrors website URLs (e.g., `api/webhooks.md` → `https://expresstrack.net/docs/api/webhooks/`)
 * Each directory creates a section page using its `index.md` file
 
+### Front Matter Properties
+
+Add metadata at the top of files between `---` lines:
+![](/_images/frontmatter.png)
+
 **Key properties:**
 
 * `title` – Page title (required)
 * `post_excerpt` – Brief description for SEO
+* `menu_order` - Sort order of the document among its siblings
 
 ## Content Guidelines
 

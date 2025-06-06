@@ -20,9 +20,9 @@ ExpressTrack is currently in development. This repository will contain:
 
 ## Stay Updated
 
-* [Sign up for development updates](https://expresstrack.net)
-* [Follow our blog](https://expresstrack.net/blog)
-* [Contact us](mailto:hello@expresstrack.net) with questions
+* [Sign up for development updates](https://expresstrack.net/newsletter/)
+* [Follow our blog](https://expresstrack.net/blog/)
+* [Contact us](mailto:hi@expresstrack.net) with questions
 
 ## About
 

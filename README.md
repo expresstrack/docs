@@ -1,9 +1,3 @@
----
-title: ExpressTrack API Documentation
-post_excerpt: Package tracking API specification with RESTful endpoints, webhook notifications, carrier integrations, and developer documentation for ExpressTrack.
-menu_order: 1
----
-
 # ExpressTrack Developer Portal
 
 Package tracking API with ready-made integrations for 200+ carriers.

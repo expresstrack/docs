@@ -22,7 +22,7 @@ ExpressTrack is currently in development. This repository will contain:
 
 * [Sign up for development updates](https://expresstrack.net)
 * [Follow our blog](https://expresstrack.net/blog)
-* [Contact us](mailto:hello@expresstrack.net) with questions
+* [Contact us](mailto:hello@expresstrack.net) with questionss
 
 ## About
 

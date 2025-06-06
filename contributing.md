@@ -1,3 +1,8 @@
+---
+title: Contributing to Documentation
+post_excerpt: Learn how to suggest edits and improvements to ExpressTrack documentation through GitHub. Includes file formatting, markdown guidelines, and submission process. 
+---
+
 # Contributing to Documentation
 
 ExpressTrack documentation is hosted on GitHub and automatically synced to our website. You can suggest edits, improvements, or report issues directly through GitHub.
@@ -21,17 +26,6 @@ Documentation files are written in Markdown (`.md`) and organized in folders tha
 * File names become URL slugs (e.g., `getting-started.md` → `https://expresstrack.net/docs/getting-started/`)
 * Directory structure mirrors website URLs (e.g., `api/webhooks.md` → `https://expresstrack.net/docs/api/webhooks/`)
 * Each directory creates a section page using its `index.md` file
-
-### Front Matter Properties
-
-Add metadata at the top of files between `---` lines:
-
-```yaml
----
-title: Page Title
-post_excerpt: Brief description for SEO
----
-```
 
 **Key properties:**
 

@@ -3,7 +3,7 @@
 Package tracking API with ready-made integrations for hundreds of carriers.
 
 ## Quick Start
-- [API Documentation](docs/) - Complete guides and reference
+- [API Documentation](https://expresstrack.net/docs/) - Complete guides and reference
 - [Get Support](../../discussions) - Community forum and help
 
 ## What's Here

@@ -1,7 +1,7 @@
 ---
 title: Contributing to Documentation
 post_excerpt: Learn how to suggest edits and improvements to ExpressTrack documentation through GitHub. Includes file formatting, markdown guidelines, and submission process.
-menu_order: 99
+menu_order: 98
 ---
 
 # Contributing to Documentation

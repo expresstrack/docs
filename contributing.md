@@ -61,13 +61,7 @@ Add metadata at the top of files between `---` lines:
 
 Use fenced code blocks with language specification:
 
-````
-```javascript
-const response = await fetch('/api/trackings', {
-  headers: { 'Authorization': 'Bearer YOUR_API_KEY' }
-});
-```
-````
+![](/_images/fenced_code_block.png)
 
 ## Types of Contributions
 

@@ -1,6 +1,6 @@
 # ExpressTrack Developer Portal
 
-Package tracking API with ready-made integrations for 200+ carriers.
+Package tracking API with ready-made integrations for hundreds of carriers.
 
 ## Quick Start
 - [API Documentation](docs/) - Complete guides and reference

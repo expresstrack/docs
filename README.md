@@ -4,34 +4,23 @@ post_excerpt: Package tracking API specification with RESTful endpoints, webhook
 menu_order: 1
 ---
 
-# ExpressTrack API Documentation
+# ExpressTrack Developer Portal
 
-Package tracking API with pre-built integrations for developers.
+Package tracking API with ready-made integrations for 200+ carriers.
+
+## Quick Start
+- [API Documentation](docs/) - Complete guides and reference
+- [Get Support](../../discussions) - Community forum and help
+
+## What's Here
+- **[Documentation](docs/)** - API guides, examples, and reference
+- **[Support Forum](../../discussions)** - Get help from our team and community
+- **[Examples](examples/)** - Sample implementations *(coming soon)*
+- **[SDKs](sdks/)** - Official libraries *(coming soon)*
 
 ## Getting Started
+1. [Get your API key](https://expresstrack.com/signup)
+2. [Read the Quick Start guide](docs/guides/quick-start.md)
+3. [Join discussions](../../discussions) for support
 
-ExpressTrack is currently in development. This repository will contain:
-
-* API documentation and guides
-* OpenAPI specification
-* Code examples and SDKs
-* Integration tutorials
-
-## Coming Soon
-
-* Interactive API documentation
-* Webhook setup guides
-* Platform integration examples (Shopify, WooCommerce, Zapier)
-* SDK libraries for popular languages
-
-## Stay Updated
-
-* [Sign up for development updates](https://expresstrack.net/newsletter/)
-* [Follow our blog](https://expresstrack.net/blog/)
-* [Contact us](mailto:hi@expresstrack.net) with questions
-
-## About
-
-ExpressTrack provides package tracking APIs with ready-made integrations. Track shipments from hundreds carriers without building custom integrations.
-
-Visit [expresstrack.net](https://expresstrack.net) for more information.
+[View on ExpressTrack.com](https://expresstrack.com/docs)

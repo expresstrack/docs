@@ -1,0 +1,20 @@
+# Root files
+index.md
+.DS_Store
+
+# Instruction files
+instructions/
+
+# Ignore everything under integrations, solutions, and pricing
+ingrations/
+solutions/
+pricing/
+
+# Ignore specific files
+resources/index.md
+blog/index.md
+support/index.md
+company/index.md
+
+# Ignore Cursor workspace settings
+.cursor/ 

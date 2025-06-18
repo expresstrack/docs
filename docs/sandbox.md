@@ -7,7 +7,7 @@ menu_order: 2
 
 # Sandbox Testing
 
-ExpressTrack provides a free sandbox environment for testing our API without any charges. Use specific tracking numbers to trigger sandbox behavior and test your integrations before going live.
+ExpressTrack's sandbox environment is built for developers. Use specific tracking numbers to trigger sandbox behavior and test your integrations at any stage of development - from initial setup to ongoing maintenance and new feature development. Sandbox testing is unlimited and free for any amount of usage.
 
 ## Getting Started
 
@@ -46,6 +46,10 @@ INVALID123
 # Helps you: Test your application's error handling and user feedback mechanisms
 ```
 
+### Suggest More Scenarios
+
+Didn't find the scenario you're looking for? We're always looking to add more test scenarios that help developers. If you have specific tracking scenarios you'd like to test, [let us know](https://github.com/expresstrack/public/discussions) and we'll consider adding them to the sandbox.
+
 ### Example API Call
 
 ```bash
@@ -60,7 +64,7 @@ curl -X POST "https://api.expresstrack.net/v1/trackings" \
       "order_id": "TEST_ORDER_123"
     }
   }'
-```
+```ß
 
 ### Response Format
 

@@ -19,7 +19,6 @@ Welcome to ExpressTrack! This guide will help you start tracking packages across
 
 Here's a complete example of tracking a package using our API:
 
-<pre>
 ```bash
 # Replace YOUR_API_KEY with your actual API key
 curl -X POST "https://api.expresstrack.net/trackings" \
@@ -30,7 +29,6 @@ curl -X POST "https://api.expresstrack.net/trackings" \
     "carrier_code": "ups"
   }'
 ```
-</pre>
 
 ## Authentication
 

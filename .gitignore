@@ -5,10 +5,11 @@ index.md
 # Instruction files
 instructions/
 
-# Ignore everything under integrations, solutions, and pricing
-ingrations/
+# Folders to ignore
+integrations/
 solutions/
 pricing/
+legal/
 
 # Ignore specific files
 resources/index.md

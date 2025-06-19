@@ -64,7 +64,7 @@ curl -X POST "https://api.expresstrack.net/v1/trackings" \
       "order_id": "TEST_ORDER_123"
     }
   }'
-```ß
+```
 
 ### Response Format
 
